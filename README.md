@@ -2,7 +2,7 @@
 
 Technology &amp; Organisation
 
-## Concepts
+## Content
 
 B.) [Artificial Intelligence Language](ail.md)
 
