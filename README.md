@@ -1,4 +1,4 @@
-# Thesis Papers
+# Thesis Papers & Concepts
 
 Technology &amp; Organisation
 
