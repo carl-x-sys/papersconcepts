@@ -1,4 +1,4 @@
-# AIL
+# Artificial Intelligence Language
 
 *Thesis Paper*
 
