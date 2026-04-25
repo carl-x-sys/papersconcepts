@@ -5,6 +5,7 @@ Technology &amp; Organisation
 ## Content
 
 B.) [Artificial Intelligence Language](ail.md)
+
 C.) [Agentic Federation System](afs.md)
 
 ---
